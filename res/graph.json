@@ -1,0 +1,29 @@
+[
+  {
+    "id": "democamera",
+    "type": "NIN.CameraNode",
+    "connectedTo": {
+      "camera": "demo.camera"
+    },
+    "options": {
+      "path": "res/demopath.json"
+    },
+    "x": -85.77885055541992,
+    "y": 256.47387886047363
+  },
+  {
+    "id": "demo",
+    "type": "DemoNode",
+    "connectedTo": {
+      "A": "root.screen"
+    },
+    "x": 50.411903381347656,
+    "y": 390.2371635437012
+  },
+  {
+    "x": -2.9370174407958984,
+    "y": 527.1492166519165,
+    "id": "root",
+    "type": "NIN.RootNode"
+  }
+]
