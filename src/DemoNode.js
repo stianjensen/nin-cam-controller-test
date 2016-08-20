@@ -38,8 +38,6 @@
       this.cube.rotation.z = frame / 79;
       this.cube2.rotation.x = frame / 47;
       this.cube2.rotation.z = frame / 79;
-      console.log(this.inputs.camera.getValue());
-      window.aaa = this.inputs.camera.getValue();
     }
 
     render(renderer) {
