@@ -6,7 +6,7 @@
       "camera": "demo.camera"
     },
     "options": {
-      "path": "res/demopath.json"
+      "path": "res/demo.camera.json"
     },
     "x": -85.77885055541992,
     "y": 256.47387886047363
